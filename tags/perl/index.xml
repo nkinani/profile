@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content tagged as &#39;perl&#39; on Nawfel KINANI</title>
-    <link>https://nkinani.github.io/scientific-profile/tags/perl/index.xml</link>
+    <link>https://nkinani.github.io/profile/tags/perl/index.xml</link>
     <description>Recent content in Content tagged as &#39;perl&#39; on Nawfel KINANI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nawfel KINANI</copyright>
-    <atom:link href="/scientific-profile/tags/perl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/profile/tags/perl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
-      <link>https://nkinani.github.io/scientific-profile/post/welcome/</link>
+      <link>https://nkinani.github.io/profile/post/welcome/</link>
       <pubDate>Thu, 23 Feb 2017 13:46:41 +0100</pubDate>
       
-      <guid>https://nkinani.github.io/scientific-profile/post/welcome/</guid>
+      <guid>https://nkinani.github.io/profile/post/welcome/</guid>
       <description></description>
     </item>
     
