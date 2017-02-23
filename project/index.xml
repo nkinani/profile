@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nawfel KINANI</title>
+    <link>https://nkinani.github.io/scientific-profile/project/index.xml</link>
+    <description>Recent content in Projects on Nawfel KINANI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nawfel KINANI</copyright>
+    <lastBuildDate>Thu, 23 Feb 2017 13:49:08 +0100</lastBuildDate>
+    <atom:link href="/scientific-profile/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LABSIM documentation</title>
+      <link>https://nkinani.github.io/scientific-profile/project/labsim-documentation/</link>
+      <pubDate>Thu, 23 Feb 2017 13:49:08 +0100</pubDate>
+      
+      <guid>https://nkinani.github.io/scientific-profile/project/labsim-documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LABSIM website</title>
+      <link>https://nkinani.github.io/scientific-profile/project/labsim-website/</link>
+      <pubDate>Thu, 23 Feb 2017 13:49:08 +0100</pubDate>
+      
+      <guid>https://nkinani.github.io/scientific-profile/project/labsim-website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
