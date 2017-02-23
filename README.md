@@ -1,2 +1,2 @@
-# scientific-profile
-static scientific profile content - HUGO generator 
+# profile
+static profile content - HUGO generator 
